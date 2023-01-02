@@ -1,7 +1,6 @@
-# 长虹通行证登录
+# 长虹通行证登录 
 
-网址：
-
+目标网址：
 ```
 https://passport.changhong.com/login.do?view=vip&service=http://cn.changhong.com&livemode=1
 ```
