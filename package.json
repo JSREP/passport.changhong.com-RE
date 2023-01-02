@@ -1,0 +1,8 @@
+{
+  "name": "passport.changhong.com-RE",
+  "version": "1.0.0",
+  "dependencies": {
+    "crypt-js": "^1.0.4",
+    "crypto-js": "^4.1.1"
+  }
+}
